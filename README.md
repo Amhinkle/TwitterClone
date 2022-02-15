@@ -1,4 +1,4 @@
-# Twitter
+# Twitter Clone
 A sample web page of twitter
 Twitter Clone
 Let's make simple Twitter. Users can post tweets and see everyone's them.
