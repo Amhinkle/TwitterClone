@@ -5,7 +5,7 @@ Let's make simple Twitter. Users can post tweets and see everyone's them.
 To make the project simple, we do not have a sign/login function.
 So there are not user accounts and follow function. 
 Check out [Live Heroku Deployment](https://twitterclone-alexis.herokuapp.com/)
-[Capture Twitter Clone](https://github.com/Amhinkle/twitterclone/blob/main/static/img/twittercloneimg.PNG)
+![Capture Twitter Clone](https://github.com/Amhinkle/twitterclone/blob/main/static/img/twittercloneimg.PNG)
 
 # Tech used
 * Html
